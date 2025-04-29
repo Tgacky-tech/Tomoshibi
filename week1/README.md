@@ -1,1 +1,2 @@
-https://colab.research.google.com/drive/1KxYq3OSpeeeywJI_RCw3_z_bLAZwi_yJ?usp=sharing
+演習２リンク
+https://colab.research.google.com/drive/1KH8dsS7vy-xArpheIn_4tYMGZMvzgocS?usp=sharing
